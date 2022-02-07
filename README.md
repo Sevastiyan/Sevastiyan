@@ -25,9 +25,10 @@ Fullstack Web Development
 
 - 📫 How to reach me: 
 
-sevastiyan.tsv@gmail.com, 
 
-<a href="sevastiyan.tsv@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) sevastiyan.tsv@gmail.com
+<a href="https://www.linkedin.com/in/sevastiyan-tsvetkov/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <!-- - ⚡ Fun fact: ... -->
 
