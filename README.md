@@ -1,4 +1,4 @@
-![Header image](https://github.com/Sevastiyan/Sevastiyan/blob/main/sava-bobov-eVa2FK83K6w-unsplash-Sevi.png)
+![Header image](https://github.com/Sevastiyan/Sevastiyan/blob/main/sava-bobov-eVa2FK83K6w-unsplash-Sevi.jpg)
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
