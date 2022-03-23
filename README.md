@@ -32,6 +32,7 @@ A Data Scientist / Engineer with a passion for anything tech (as in technology a
     "Interests": { 
         "Gaming",
         "Music",
+        "Phylosophy",
         "Travel",
         "Photography",
         "Videography"
