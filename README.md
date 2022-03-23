@@ -15,9 +15,27 @@ A Data Scientist / Engineer with a passion for anything tech (as in technology a
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about 
+- 💬 Talk to me about anything of the following:
 
-**Deep Learning**, **Machine Learning**, **Python Programming**, **Java Programming**, **Android Programming**.
+```
+Stuff: {
+    Work: {
+        Deep Learning, 
+        Machine Learning, 
+        Python Programming, 
+        Java Programming, 
+        Android Programming
+    },
+    Interests: { 
+        Gaming,
+        Music,
+        Travel,
+        Photography,
+        Videography,
+    }
+}
+
+```
 
 - 📫 How to reach me: 
 
