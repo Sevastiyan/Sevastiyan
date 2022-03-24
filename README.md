@@ -45,6 +45,7 @@ A Data Scientist / Engineer with a passion for anything tech (as in technology a
     <a href="mailto: abc@example.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
     <a href="https://www.linkedin.com/in/sevastiyan-tsvetkov/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
     <a href=https://wa.me/6596430016>![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+    <a href=https://signal.me/#p/+6596430016>![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)</a>
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
