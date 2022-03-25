@@ -23,13 +23,11 @@ A Data Scientist / Engineer with a passion for anything tech (as in technology a
 ```json
 "Stuff": {
     "Work": {
-        "Deep Learning", 
-        "Machine Learning", 
-        "Python Programming", 
-        "Java Programming", 
-        "Android Programming"
+        "DeepLearning", 
+        "MachineLearning", 
+        "Programming"
     },
-    "Interests": { 
+    "Leisre": { 
         "Gaming",
         "Music",
         "Phylosophy",
