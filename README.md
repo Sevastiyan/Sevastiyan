@@ -23,17 +23,17 @@
 ```json
 "Stuff": {
     "Work": {
-        "DeepLearning", 
-        "MachineLearning", 
-        "Programming"
+        DeepLearning,
+        MachineLearning, 
+        Programming
     },
     "Leisre": { 
-        "Gaming",
-        "Music",
-        "Phylosophy",
-        "Travel",
-        "Photography",
-        "Videography"
+        Gaming,
+        Music,
+        Phylosophy,
+        Travel,
+        Photography",
+        Videography
     }
 }
 ```
