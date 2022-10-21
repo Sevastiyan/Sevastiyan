@@ -1,8 +1,12 @@
 ![Header image](https://github.com/Sevastiyan/Sevastiyan/blob/main/sava-bobov-eVa2FK83K6w-unsplash-Sevi.jpg)
 
-    A Data Scientist / Full Stack Developer with a passion for anything tech (as in technology and techno music). 
-    Developing today's ground-breaking interactive digital systems and putting them into practice, 
+    A Data Scientist / Full Stack Developer with a passion for anything tech _(as in technology and techno music)_. 
+    Developing today's ground-breaking interactive digital systems, 
     while combining a unique blend of Science, Technology, and Innovation.
+     - Gathering unforeseen insights,
+     - Teachning Mahcines what to do,
+     - and putting it all into practice.
+    
 
 - ## :moneybag: 
 I’m currently working as a **AI FullStack Developer** at **Flexosense Pte. Ltd. Singapore**
