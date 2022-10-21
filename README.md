@@ -21,9 +21,9 @@ function translate(GoodMusic: 🎧, Coffee: ☕) {
 function create(DataInsights: 📊) {
     return {
         Awesome_Products: {
-            Mobile: 📱
-            Web: 📄
-            Backend: 
+            Mobile: 📱,
+            Web: 📄,
+            Backend: 🧮,
             AI_Models: 🤖,
         }
     }
