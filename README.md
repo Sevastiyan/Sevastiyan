@@ -13,14 +13,20 @@ function translate(GoodMusic: 🎧, Coffee: ☕) {
 
 function create(DataInsights: 📊) {
     return {
-        AI_Models: 🤖
+        Awesome_Products: {
+            Mobile: 📱
+            Web: 📄
+            Backend: 💻
+            AI_Models: 🤖,
+        }
     }
 }
 
 const myPromise = () => {
     return new Promise((resolve, reject) => {
+        const work = translate(GoodMusic: 🎧, Coffee: ☕)
         const proffits = {
-            Work: translate(GoodMusic: 🎧, Coffee: ☕),
+            Work: work,
             Product: create(work.DataInsights: 📊),
             Proffits: 📈
         }
