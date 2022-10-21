@@ -29,7 +29,7 @@ const myPromise = () => {
     })
 }
 ```
-Start by calling `myPromise()`
+Start by calling `myPromise()` *NOTE: There are still bugs in the code*
 
 
 - :telescope: I use daily: 
