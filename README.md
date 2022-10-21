@@ -19,12 +19,10 @@ function create(DataInsights: 📊) {
 }
 
 const myPromise = () => {
-    const work = translate(GoodMusic: 🎧, Coffee: ☕)
-    const product = create(work.DataInsights: 📊)
     return new Promise((resolve, reject) => {
         const proffits = {
-            Work: work,
-            Product: product,
+            Work: translate(GoodMusic: 🎧, Coffee: ☕),
+            Product: create(work.DataInsights: 📊),
             Proffits: 📈
         }
         resolve(proffits)
