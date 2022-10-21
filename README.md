@@ -2,7 +2,8 @@
 
     A Data Scientist / Engineer with a passion for anything tech (as in technology and techno music). Developing today's ground-breaking interactive digital systems and putting them into practice, while combining a unique blend of Science, Technology, and Innovation.
 
-- ## :moneybag: I’m currently working at **Flexosense Pte. Ltd. Singapore**
+- ## :moneybag: 
+I’m currently working at **Flexosense Pte. Ltd. Singapore**
 ```javascript
 function translate(GoodMusic: 🎧, Coffee: ☕) { 
     return { 
@@ -37,7 +38,7 @@ const myPromise = () => {
 Start by calling `myPromise()` *NOTE: There are still bugs in the code*
 
 
-- ## :telescope: I use daily: 
+- ##  I use daily: 
 
 | Language | Technology | Tools |
 |  :-----------:  |  :------:  |  :----:  |
