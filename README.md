@@ -23,7 +23,7 @@ function create(DataInsights: 📊) {
         Awesome_Products: {
             Mobile: 📱
             Web: 📄
-            Backend: :abacus:
+            Backend: 
             AI_Models: 🤖,
         }
     }
