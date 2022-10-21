@@ -1,6 +1,6 @@
 ![Header image](https://github.com/Sevastiyan/Sevastiyan/blob/main/sava-bobov-eVa2FK83K6w-unsplash-Sevi.jpg)
 
-**A Data Scientist / Engineer with a passion for anything tech (as in technology and techno music). Developing today's ground-breaking interactive digital systems and putting them into practice, while combining a unique blend of Science, Technology, and Innovation.**
+    A Data Scientist / Engineer with a passion for anything tech (as in technology and techno music). Developing today's ground-breaking interactive digital systems and putting them into practice, while combining a unique blend of Science, Technology, and Innovation.
 
 - ## :moneybag: I’m currently working at **Flexosense Pte. Ltd. Singapore**
 ```javascript
