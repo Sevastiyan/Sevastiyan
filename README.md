@@ -23,8 +23,8 @@ const myPromise = () => {
     const product = create(work.DataInsights: 📊)
     return new Promise((resolve, reject) => {
         const proffits = {
-            Work: work
-            Product: product
+            Work: work,
+            Product: product,
             Proffits: 📈
         }
         resolve(proffits)
