@@ -2,8 +2,7 @@
 
 **A Data Scientist / Engineer with a passion for anything tech (as in technology and techno music). Developing today's ground-breaking interactive digital systems and putting them into practice, while combining a unique blend of Science, Technology, and Innovation.**
 
-- ### :moneybag: 
-I’m currently working at **Flexosense Pte. Ltd. Singapore**
+- ## :moneybag: I’m currently working at **Flexosense Pte. Ltd. Singapore**
 ```javascript
 function translate(GoodMusic: 🎧, Coffee: ☕) { 
     return { 
@@ -32,7 +31,7 @@ const myPromise = () => {
 Start by calling `myPromise()` *NOTE: There are still bugs in the code*
 
 
-- :telescope: I use daily: 
+- ## :telescope: I use daily: 
 
 | Language | Technology | Tools |
 |  :-----------:  |  :------:  |  :----:  |
@@ -41,7 +40,7 @@ Start by calling `myPromise()` *NOTE: There are still bugs in the code*
 |![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)|![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)|
 |🌩️|![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)|![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)|
 
-- 🌱 I’m currently learning: 
+- ## 🌱 I’m currently learning: 
 
     ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
     
@@ -67,7 +66,7 @@ Start by calling `myPromise()` *NOTE: There are still bugs in the code*
 }
 ```
 
-- 📫 How to reach me: `Hint: Click`
+- ## 📫 How to reach me: `Hint: Click`
 
     <a href="mailto: abc@example.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
     <a href="https://www.linkedin.com/in/sevastiyan-tsvetkov/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -76,7 +75,7 @@ Start by calling `myPromise()` *NOTE: There are still bugs in the code*
 
 <!-- <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'> -->
 
-- ⚡ Fun stats: ...
+- ## ⚡ Fun stats: ...
 
 ![Sevi's stats](https://github-readme-stats.vercel.app/api?username=sevastiyan&count_private=true&hide=stars,contribs&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&custom_title=Sevi's%20stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sevastiyan&count_private=true&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/sevastiyan/github-readme-stats)
 
