@@ -3,6 +3,13 @@
 **A Data Scientist / Engineer with a passion for anything tech (as in technology and techno music). Developing today's ground-breaking interactive digital systems and putting them into practice, while combining a unique blend of Science, Technology, and Innovation.**
 
 - :moneybag: I’m currently working at **Flexosense Pte. Ltd. Singapore**
+```javascript
+    translate(GoodMusic: 🎧, Coffee: ☕) { 
+        return { 
+            Software 👨‍💻, DataInsights 📊 
+        } 
+    }
+```
 - :telescope: I use daily: 
 
 | Language | Technology | Tools |
