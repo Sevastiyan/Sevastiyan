@@ -7,7 +7,6 @@
      - Gathering unforeseen insights,
      - Teachning Mahcines what to do,
      - and putting it all into practice.
-    
 
 - ## :moneybag: 
 I’m currently working as a **AI FullStack Developer** at **Flexosense Pte. Ltd. Singapore**
@@ -56,10 +55,9 @@ Start by calling `myPromise()` *NOTE: There are still bugs in the code*
 
 - ## 🌱 I’m currently learning: 
 
-    ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-    
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+      
+
 - 💬 Talk to me about anything of the following:
 
 ```json
@@ -87,9 +85,7 @@ Start by calling `myPromise()` *NOTE: There are still bugs in the code*
     <a href=https://wa.me/6596430016>![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
     <a href=https://signal.me/#p/+6596430016>![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)</a>
 
-<!-- <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'> -->
 
 - ## ⚡ Fun stats: ...
 
 ![Sevi's stats](https://github-readme-stats.vercel.app/api?username=sevastiyan&count_private=true&hide=stars,contribs&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&custom_title=Sevi's%20stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sevastiyan&count_private=true&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/sevastiyan/github-readme-stats)
-
