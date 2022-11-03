@@ -1,6 +1,7 @@
 ![Header image](https://github.com/Sevastiyan/Sevastiyan/blob/main/sava-bobov-eVa2FK83K6w-unsplash-Sevi.jpg)
 
-    A Data Scientist / Full Stack Developer with a passion for anything tech _(as in technology and techno music)_. 
+    Not just a Data Scientist or a Full Stack Developer. 
+    A Generalist with a passion for anything tech _(as in technology and techno music)_. 
     Developing today's ground-breaking interactive digital systems, 
     while combining a unique blend of Science, Technology, and Innovation.
      - Gathering unforeseen insights,
