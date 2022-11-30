@@ -18,7 +18,7 @@ function translate(GoodMusic: 🎧, Coffee: ☕) {
     } 
 }
 
-function create(DataInsights: 📊) {
+function create(Software: 👨‍💻, DataInsights: 📊) {
     return {
         Awesome_Products: {
             Mobile: 📱,
@@ -34,7 +34,7 @@ const myPromise = () => {
         const work = translate(GoodMusic: 🎧, Coffee: ☕)
         const proffits = {
             Work: work,
-            Product: create(work.DataInsights: 📊),
+            Product: create(work),
             Proffits: 📈
         }
         resolve(proffits)
