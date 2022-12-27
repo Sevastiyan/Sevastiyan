@@ -33,8 +33,7 @@ const myPromise = () => {
     return new Promise((resolve, reject) => {
         const work = translate(GoodMusic: 🎧, Coffee: ☕)
         const proffits = {
-            Work: work,
-            Product: create(work),
+            Product: ...create(work),
             Proffits: 📈
         }
         resolve(proffits)
