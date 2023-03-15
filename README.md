@@ -8,7 +8,7 @@
      - Teachning Mahcines what to do,
      - and putting it all into practice.
 
-- ## :moneybag: 
+- ## :moneybag: MoneyBag 
 I’m currently working as a **AI FullStack Developer** at **Flexosense Pte. Ltd. Singapore**
 ```javascript
 function translate(GoodMusic: 🎧, Coffee: ☕) { 
