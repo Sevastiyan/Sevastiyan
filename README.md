@@ -93,3 +93,5 @@ Start by calling `myPromise()` *NOTE: There are still bugs in the code*
 [![Sevi's stats-Dark](https://github-readme-stats.vercel.app/api?username=sevastiyan&count_private=true&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only&custom_title=Sevi's%20stats)](https://github.com/sevastiyan/github-readme-stats#gh-dark-mode-only)
 [![Sevi's stats-Light](https://github-readme-stats.vercel.app/api?username=sevastiyan&count_private=true&show_icons=true&hide_border=true&theme=dark#gh-light-mode-only&custom_title=Sevi's%20stats)](https://github.com/sevastiyan/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sevastiyan&count_private=true&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/sevastiyan/github-readme-stats)
+
+[![Sevi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevastiyan)](https://github.com/anuraghazra/github-readme-stats)
