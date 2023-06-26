@@ -90,4 +90,4 @@ Start by calling `myPromise()` *NOTE: There are still bugs in the code*
 
 - ## ⚡ Fun stats: ...
 
-[![Sevi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevastiyan&count_private=false&show_icons=true)](https://github.com/sevastiyan/github-readme-stats)
+[![Sevi's GitHub stats](https://github-readme-stats-taupe-seven-72.vercel.app/api?username=sevastiyan&count_private=true&show_icons=true)](https://github.com/sevastiyan/github-readme-stats)
