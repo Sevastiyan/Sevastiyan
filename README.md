@@ -8,7 +8,7 @@
      - Teachning Mahcines what to do,
      - and putting it all into practice.
 
-- ## :moneybag: MoneyBag 
+# :moneybag: MoneyBag 
 I’m currently working as a **AI FullStack Developer** at **Flexosense Pte. Ltd. Singapore**
 ```javascript
 function translate(GoodMusic: 🎧, Coffee: ☕) { 
@@ -43,7 +43,7 @@ const myPromise = () => {
 Start by calling `myPromise()` *NOTE: There are still bugs in the code*
 
 
-- ## :hammer_and_pick: I use daily: 
+# :hammer_and_pick: I use daily: 
 
 | Language | Technology | Framework | Tools |
 |  :-----------:  |  :------:  |  :----: |  :----:  |
@@ -55,7 +55,7 @@ Start by calling `myPromise()` *NOTE: There are still bugs in the code*
 |  :-----------:  |
 | ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)|
 
-- ## 🌱 I’m currently learning: 
+# 🌱 I’m currently learning: 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
       
@@ -80,7 +80,7 @@ Start by calling `myPromise()` *NOTE: There are still bugs in the code*
 }
 ```
 
-- ## 📫 How to reach me: `Hint: Click`
+# 📫 How to reach me: `Hint: Click`
 
     <a href="mailto: abc@example.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
     <a href="https://www.linkedin.com/in/sevastiyan-tsvetkov/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
