@@ -1,49 +1,98 @@
 ![Header image](https://github.com/Sevastiyan/Sevastiyan/blob/main/sava-bobov-eVa2FK83K6w-unsplash-Sevi.jpg)
 
-    Not just a Data Scientist or a Full Stack Developer. 
-    A Generalist with a passion for anything tech _(as in technology and techno music)_. 
-    Developing today's ground-breaking interactive digital systems, 
-    while combining a unique blend of Science, Technology, and Innovation.
-     - Gathering unforeseen insights,
-     - Teachning Mahcines what to do,
-     - and putting it all into practice.
+> AI Engineer | Biomedical AI Specialist | Full-Stack Developer
+> Transforming healthcare and interactive systems through innovation in AI, and digital technology.
 
-# :moneybag: MoneyBag 
-I’m currently working as a **AI FullStack Developer** at **Flexosense Pte. Ltd. Singapore**
+---
+# 🌌 About Me
+
+Not just a data scientist or a full-stack developer; I'm a Generalist passionate about all things tech (such as technology and techno music)! With a unique blend of science, technology, and a knack for innovation, I’m focused on building cutting-edge digital systems for real-world impact.
+- Innovating in Digital Health: From smart insoles for gait analysis to real-time AI models for posture.
+- Empowering Machines: Teaching them to recognize human movement and make insightful recommendations.
+- Delivering on Execution: Building and deploying practical tech solutions for user-facing platforms.
+
+---
+# 💻 My Code in Action
+
 ```javascript
-function translate(GoodMusic: 🎧, Coffee: ☕) { 
-    return { 
-        Software: 👨‍💻, 
-        DataInsights: 📊 
-    } 
-}
+const coffeeAndMusic = (goodMusic, coffee) => ({
+    dataScience: "📊",
+    softwareEngineering: "👨‍💻",
+});
 
-function create(Software: 👨‍💻, DataInsights: 📊) {
-    return {
-        Awesome_Products: {
-            Mobile: 📱,
-            Web: 📄,
-            Backend: 🧮,
-            AI_Models: 🤖,
-        }
-    }
-}
+const createInnovation = (dataScience, softwareEngineering) => ({
+    mobileApps: "📱",
+    webPlatforms: "🌐",
+    backendServices: "🧮",
+    aiModels: "🤖",
+});
 
-const myPromise = () => {
-    return new Promise((resolve, reject) => {
-        const work = translate(GoodMusic: 🎧, Coffee: ☕)
-        const proffits = {
-            Product: {...create(work)},
-            Proffits: 📈
-        }
-        resolve(proffits)
-    })
-}
+const launchProducts = () =>
+    Promise.resolve({
+        products: createInnovation(...coffeeAndMusic("🎧", "☕")),
+        growth: "📈",
+    });
+
+// Call launchProducts() for something interesting
 ```
-Start by calling `myPromise()` *NOTE: There are still bugs in the code*
+---
+
+# 🗂️ Sevastiyan's Tech Portfolio
+
+## Case File: Motion Insight Systems
+
+**Project**: Real-Time Pose Detection Platform
+
+**Objective**: Capture and analyze human movement in real time for applications in fitness and health.
+
+**Tech Stack**: AWS Lambda, MediaPipe, WebRTC, Node.js
+
+📋 _The Challenge_: Building a platform that runs real-time pose detection at low latency and high efficiency. It’s all about keeping performance smooth, minimizing delays, and achieving a seamless user experience across devices.
+
+🔎 _Current Focus_: Optimizing memory and tackling memory “jank” on different browsers to deliver consistent quality.
 
 
-# :hammer_and_pick: I use daily: 
+## Case File: Sleep Intelligence Hub
+
+**Project**: Bio-signal Processing & Sleep Analytics
+
+**Objective**: Design a backend that’s robust enough to handle millions of data points, providing users with actionable sleep insights.
+
+**Tech Stack**: DynamoDB, Next.js, Tailwind, Python
+
+📋 *The Challenge*: Supporting a high-throughput data pipeline to process bio-signals and detect sleep patterns, plus a responsive frontend to deliver these insights. From managing AWS infrastructure to building premium features, this project is about creating meaningful insights that help people sleep better.
+
+🔎 *Next Phase*: Exploring enhancements for premium users, like personalized sleep insights and recommendations based on their unique bio-signals.
+
+
+## Case File: Gait Analysis for Health
+
+**Project**: Smart Insole for Gait Tracking
+
+**Objective**: Develop a system that medical professionals can rely on to monitor and analyze patient movement.
+
+**Tech Stack**: Custom IoT Sensors, Machine Learning Models
+
+📋 *The Challenge*: Transforming insole pressure data into gait insights and detecting abnormalities in real time. It’s a combination of sensor precision and robust ML models to help clinicians track and improve patient outcomes.
+
+🔎 *Current Focus*: Fine-tuning model accuracy with clinical feedback, aiming for highly reliable detection across different user profiles and activities.
+
+
+## Case File: Port Safety AI
+
+**Project**: Real-Time Incident Detection System
+
+**Objective**: Enhance workplace safety with an Android-based AI model that can detect safety incidents with high accuracy.
+
+**Tech Stack**: Android, Java, Custom ML Models
+
+📋 *The Challenge*: Developing a real-time incident detection model that’s accurate and efficient enough to alert port operators instantly. By optimizing for on-the-ground conditions, this project blends computer vision and safety protocols to protect workers.
+
+🔎 *Next Steps*: Continuing to test and refine the AI model for more complex real-world scenarios, adjusting sensitivity to maximize safety.
+
+---
+
+# ⚙️ Technologies I Use
 
 | Language | Technology | Framework | Tools |
 |  :-----------:  |  :------:  |  :----: |  :----:  |
@@ -55,21 +104,22 @@ Start by calling `myPromise()` *NOTE: There are still bugs in the code*
 |  :-----------:  |
 | ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)|
 
-# 🌱 I’m currently learning: 
+# 🌱 I’m currently learning:
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-      
+
 # 💬 Talk to me about anything of the following:
 
 ```json
 "Stuff": {
     "Work": {
         "DeepLearning",
-        "MachineLearning", 
+        "MachineLearning",
         "Programming"
     },
-    "Leisre": { 
+    "Leisre": {
         "Gaming",
+        "CS2",
         "Music",
         "Phylosophy",
         "Travel",
@@ -78,8 +128,9 @@ Start by calling `myPromise()` *NOTE: There are still bugs in the code*
     }
 }
 ```
+---
 
-# 📫 How to reach me: `Hint: Click`
+# 📫 Connect with Me
 
 <a href="mailto: abc@example.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/sevastiyan-tsvetkov/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -87,6 +138,3 @@ Start by calling `myPromise()` *NOTE: There are still bugs in the code*
 <a href=https://signal.me/#p/+6596430016>![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)</a>
 
 
-- ## ⚡ Fun stats: ...
-
-[![Sevi's GitHub stats](https://github-readme-stats-taupe-seven-72.vercel.app/api?username=sevastiyan&count_private=true&show_icons=true)](https://github.com/sevastiyan/github-readme-stats)
