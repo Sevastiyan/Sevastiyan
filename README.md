@@ -55,41 +55,41 @@ const launchProducts = () =>
 
 ## Case File: Sleep Intelligence Hub
 
-**Project**: Bio-signal Processing & Sleep Analytics
-
-**Objective**: Design a backend that’s robust enough to handle millions of data points, providing users with actionable sleep insights.
-
-**Tech Stack**: DynamoDB, Next.js, Tailwind, Python
-
-📋 *The Challenge*: Supporting a high-throughput data pipeline to process bio-signals and detect sleep patterns, plus a responsive frontend to deliver these insights. From managing AWS infrastructure to building premium features, this project is about creating meaningful insights that help people sleep better.
-
-🔎 *Next Phase*: Exploring enhancements for premium users, like personalized sleep insights and recommendations based on their unique bio-signals.
+>**Project**: Bio-signal Processing & Sleep Analytics
+>
+>**Objective**: Design a backend that’s robust enough to handle millions of data points, providing users with actionable sleep insights.
+>
+>**Tech Stack**: DynamoDB, Next.js, Tailwind, Python
+>
+>📋 *The Challenge*: Supporting a high-throughput data pipeline to process bio-signals and detect sleep patterns, plus a responsive frontend to deliver these insights. From managing AWS infrastructure to building premium features, this project is about creating meaningful insights that help people sleep better.
+>
+>🔎 *Next Phase*: Exploring enhancements for premium users, like personalized sleep insights and recommendations based on their unique bio-signals.
 
 
 ## Case File: Gait Analysis for Health
 
-**Project**: Smart Insole for Gait Tracking
-
-**Objective**: Develop a system that medical professionals can rely on to monitor and analyze patient movement.
-
-**Tech Stack**: Custom IoT Sensors, Machine Learning Models
-
-📋 *The Challenge*: Transforming insole pressure data into gait insights and detecting abnormalities in real time. It’s a combination of sensor precision and robust ML models to help clinicians track and improve patient outcomes.
-
-🔎 *Current Focus*: Fine-tuning model accuracy with clinical feedback, aiming for highly reliable detection across different user profiles and activities.
+>**Project**: Smart Insole for Gait Tracking
+>
+>**Objective**: Develop a system that medical professionals can rely on to monitor and analyze patient movement.
+>
+>**Tech Stack**: Custom IoT Sensors, Machine Learning Models
+>
+>📋 *The Challenge*: Transforming insole pressure data into gait insights and detecting abnormalities in real time. It’s a combination of sensor precision and robust ML models to help clinicians track and improve patient outcomes.
+>
+>🔎 *Current Focus*: Fine-tuning model accuracy with clinical feedback, aiming for highly reliable detection across different user profiles and activities.
 
 
 ## Case File: Port Safety AI
 
-**Project**: Real-Time Incident Detection System
-
-**Objective**: Enhance workplace safety with an Android-based AI model that can detect safety incidents with high accuracy.
-
-**Tech Stack**: Android, Java, Custom ML Models
-
-📋 *The Challenge*: Developing a real-time incident detection model that’s accurate and efficient enough to alert port operators instantly. By optimizing for on-the-ground conditions, this project blends computer vision and safety protocols to protect workers.
-
-🔎 *Next Steps*: Continuing to test and refine the AI model for more complex real-world scenarios, adjusting sensitivity to maximize safety.
+>**Project**: Real-Time Incident Detection System
+>
+>**Objective**: Enhance workplace safety with an Android-based AI model that can detect safety incidents with high accuracy.
+>
+>**Tech Stack**: Android, Java, Custom ML Models
+>
+>📋 *The Challenge*: Developing a real-time incident detection model that’s accurate and efficient enough to alert port operators instantly. By optimizing for on-the-ground conditions, this project blends computer vision and safety protocols to protect workers.
+>
+>🔎 *Next Steps*: Continuing to test and refine the AI model for more complex real-world scenarios, adjusting sensitivity to maximize safety.
 
 ---
 
