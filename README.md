@@ -1,6 +1,7 @@
 ![Header image](https://github.com/Sevastiyan/Sevastiyan/blob/main/sava-bobov-eVa2FK83K6w-unsplash-Sevi.jpg)
 
 > AI Engineer | Biomedical AI Specialist | Full-Stack Developer
+>
 > Transforming healthcare and interactive systems through innovation in AI, and digital technology.
 
 ---
@@ -41,15 +42,15 @@ const launchProducts = () =>
 
 ## Case File: Motion Insight Systems
 
-**Project**: Real-Time Pose Detection Platform
-
-**Objective**: Capture and analyze human movement in real time for applications in fitness and health.
-
-**Tech Stack**: AWS Lambda, MediaPipe, WebRTC, Node.js
-
-📋 _The Challenge_: Building a platform that runs real-time pose detection at low latency and high efficiency. It’s all about keeping performance smooth, minimizing delays, and achieving a seamless user experience across devices.
-
-🔎 _Current Focus_: Optimizing memory and tackling memory “jank” on different browsers to deliver consistent quality.
+>**Project**: Real-Time Pose Detection Platform
+>
+>**Objective**: Capture and analyze human movement in real time for applications in fitness and health.
+>
+>**Tech Stack**: AWS Lambda, MediaPipe, WebRTC, Node.js
+>
+>📋 _The Challenge_: Building a platform that runs real-time pose detection at low latency and high efficiency. It’s all about keeping performance smooth, minimizing delays, and achieving a seamless user experience across devices.
+>
+>🔎 _Current Focus_: Optimizing memory and tackling memory “jank” on different browsers to deliver consistent quality.
 
 
 ## Case File: Sleep Intelligence Hub
@@ -104,9 +105,20 @@ const launchProducts = () =>
 |  :-----------:  |
 | ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)|
 
+---
+
 # 🌱 I’m currently learning:
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+
+---
+
+# 📫 Connect with Me
+
+<a href="mailto: abc@example.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/sevastiyan-tsvetkov/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href=https://wa.me/821037674724>![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+<a href=https://signal.me/#p/+6596430016>![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)</a>
 
 # 💬 Talk to me about anything of the following:
 
@@ -129,12 +141,4 @@ const launchProducts = () =>
 }
 ```
 ---
-
-# 📫 Connect with Me
-
-<a href="mailto: abc@example.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/sevastiyan-tsvetkov/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href=https://wa.me/821037674724>![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
-<a href=https://signal.me/#p/+6596430016>![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)</a>
-
 
