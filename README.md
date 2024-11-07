@@ -40,9 +40,11 @@ const launchProducts = () =>
 
 # 🗂️ Sevastiyan's Tech Portfolio
 
-## Case File: Motion Insight Systems
+## Motion Insight Systems
 
 >**Project**: Real-Time Pose Detection Platform
+>
+>**Company**: [Neurabody AI](https://www.neurabody.ai/) South Korea
 >
 >**Objective**: Capture and analyze human movement in real time for applications in fitness and health.
 >
@@ -53,43 +55,66 @@ const launchProducts = () =>
 >🔎 _Current Focus_: Optimizing memory and tackling memory “jank” on different browsers to deliver consistent quality.
 
 
-## Case File: Sleep Intelligence Hub
+## Wethm Sleep Intelligence Hub
 
->**Project**: Bio-signal Processing & Sleep Analytics
->
->**Objective**: Design a backend that’s robust enough to handle millions of data points, providing users with actionable sleep insights.
->
->**Tech Stack**: DynamoDB, Next.js, Tailwind, Python
->
->📋 *The Challenge*: Supporting a high-throughput data pipeline to process bio-signals and detect sleep patterns, plus a responsive frontend to deliver these insights. From managing AWS infrastructure to building premium features, this project is about creating meaningful insights that help people sleep better.
->
->🔎 *Next Phase*: Exploring enhancements for premium users, like personalized sleep insights and recommendations based on their unique bio-signals.
-
-
-## Case File: Gait Analysis for Health
-
->**Project**: Smart Insole for Gait Tracking
->
->**Objective**: Develop a system that medical professionals can rely on to monitor and analyze patient movement.
->
->**Tech Stack**: Custom IoT Sensors, Machine Learning Models
->
->📋 *The Challenge*: Transforming insole pressure data into gait insights and detecting abnormalities in real time. It’s a combination of sensor precision and robust ML models to help clinicians track and improve patient outcomes.
->
->🔎 *Current Focus*: Fine-tuning model accuracy with clinical feedback, aiming for highly reliable detection across different user profiles and activities.
+> **Project**: Bio-signal Processing & Sleep Analytics
+> 
+> **Company**: [Wethm LLC.](https://www.wethm.com) South Korea
+> 
+> **Objective**: Build a backend infrastructure capable of processing millions of data points to deliver precise, actionable sleep insights to users.
+> 
+> **Tech Stack**: AWS (DynamoDB, Lambda), Next.js, Node.js, Python, Docker, AI Modeling
+> 
+> 📋 _Challenges_:
+> 
+> - Designing a high-throughput data pipeline to efficiently process over 2.5 million bio-signal data points per hour, enabling real-time sleep detection.
+> - Integrating advanced AI models to enhance bio-signal analysis and ensure accurate sleep pattern recognition.
+> - Developing scalable, optimized data models within DynamoDB to manage the vast amounts of incoming data seamlessly.
+> - Implementing premium features, including personalized sleep insights and recommendations, as part of a subscription model, aimed at providing tailored guidance based on individual bio-signals.
+> - Ensuring a resilient AWS infrastructure to handle high data loads while maintaining consistent performance and uptime.
+> 
+> 🎯 _Impact_: The Sleep Intelligence Hub connects thousands of devices, enabling data-driven insights that help users improve sleep quality. This platform supports Wethm’s premium users by offering personalized feedback, empowering better sleep through actionable analytics.
 
 
-## Case File: Port Safety AI
+## Clinical Innovation Project – Remote Health Monitoring Through Gait
 
->**Project**: Real-Time Incident Detection System
->
->**Objective**: Enhance workplace safety with an Android-based AI model that can detect safety incidents with high accuracy.
->
->**Tech Stack**: Android, Java, Custom ML Models
->
->📋 *The Challenge*: Developing a real-time incident detection model that’s accurate and efficient enough to alert port operators instantly. By optimizing for on-the-ground conditions, this project blends computer vision and safety protocols to protect workers.
->
->🔎 *Next Steps*: Continuing to test and refine the AI model for more complex real-world scenarios, adjusting sensitivity to maximize safety.
+> **Project**: IoT-Powered Patient Activity Monitoring
+> 
+> **Company**: [FlexoSense Pte. Ltd.](https://www.flexosense.com/) Singapore
+> 
+> **Objective**: Develop a secure and accurate system for monitoring patient activity remotely, enhancing the quality of care and supporting lifestyle insights for healthcare providers.
+> 
+> **Tech Stack**: IoT Sensors, Android, Java, Python, Data Privacy & Security Frameworks, Machine Learning Models
+> 
+> 📋 _Challenges_:
+> 
+> - Designing a data model with robust security, meeting stringent data privacy standards to protect sensitive patient information.
+> - Creating an activity detection model that achieves high accuracy (96%) across diverse patient profiles, providing clinicians with reliable insights into daily patient activity.
+> - Building an intuitive Android dashboard that enables hospitals to track patient metrics in real time, supporting remote monitoring and reducing the need for in-person follow-ups.
+> - Ensuring seamless integration within the MOH-funded pilot framework, collaborating closely with hospital teams for feedback and alignment.
+> 
+> 🎯 _Impact_: This solution empowers healthcare providers to monitor patient health remotely with confidence. Now deployed in Singapore’s major hospitals, the system aids in delivering timely insights to clinicians, helping drive improved patient outcomes and lifestyle guidance.
+
+
+## Real-Time Incident Detection System
+
+> **Project**: IoT-Powered Patient Activity Monitoring
+> 
+> **Company**: [FlexoSense Pte. Ltd.](https://www.flexosense.com/) Singapore
+> 
+> **Objective**: Deploy an AI-driven system that detects safety incidents with high accuracy, supporting real-time monitoring to enhance workplace safety and response times.
+> 
+> **Tech Stack**: IoT Sensors, Android, Java, Python, Machine Learning Models, Real-Time Data Processing
+> 
+> 📋 _Challenges_:
+> 
+> - Developing an AI model capable of detecting safety incidents with a high degree of accuracy (98%) across diverse real-world scenarios and conditions.
+> - Conducting extensive on-site testing to refine model performance and ensure reliability in real-time applications, minimizing false positives.
+> - Implementing an intuitive Android dashboard that allows safety teams to monitor incident alerts in real time, providing quick insights and supporting prompt action.
+> - Ensuring the system integrates smoothly with existing safety protocols, aiding teams in incident management and improving overall workplace safety.
+> 
+> 🎯 _Impact_: The system enhances incident detection capabilities, providing high-accuracy insights that are already helping clients monitor workplace safety in real time. By enabling rapid response to safety incidents, it plays a critical role in reducing workplace hazards and improving occupational health.
+
 
 ---
 
