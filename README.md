@@ -13,30 +13,6 @@ Not just a data scientist or a full-stack developer; I'm a Generalist passionate
 - Delivering on Execution: Building and deploying practical tech solutions for user-facing platforms.
 
 ---
-# 💻 My Code in Action
-
-```javascript
-const coffeeAndMusic = (goodMusic, coffee) => ({
-    dataScience: "📊",
-    softwareEngineering: "👨‍💻",
-});
-
-const createInnovation = (dataScience, softwareEngineering) => ({
-    mobileApps: "📱",
-    webPlatforms: "🌐",
-    backendServices: "🧮",
-    aiModels: "🤖",
-});
-
-const launchProducts = () =>
-    Promise.resolve({
-        products: createInnovation(...coffeeAndMusic("🎧", "☕")),
-        growth: "📈",
-    });
-
-// Call launchProducts() for something interesting
-```
----
 
 # 🗂️ Sevastiyan's Tech Portfolio
 
@@ -162,6 +138,30 @@ const launchProducts = () =>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
+---
+# 💻 My Code in Action
+
+```javascript
+const coffeeAndMusic = (goodMusic, coffee) => ({
+    dataScience: "📊",
+    softwareEngineering: "👨‍💻",
+});
+
+const createInnovation = (dataScience, softwareEngineering) => ({
+    mobileApps: "📱",
+    webPlatforms: "🌐",
+    backendServices: "🧮",
+    aiModels: "🤖",
+});
+
+const launchProducts = () =>
+    Promise.resolve({
+        products: createInnovation(...coffeeAndMusic("🎧", "☕")),
+        growth: "📈",
+    });
+
+// Call launchProducts() for something interesting
+```
 ---
 
 # 📫 Connect with Me
