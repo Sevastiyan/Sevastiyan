@@ -42,80 +42,106 @@ const launchProducts = () =>
 
 ## Motion Insight Systems
 
->**Project**: Real-Time Pose Detection Platform
+> **Project:** Real-time Pose Detection & Posture Coaching
+> **Company:** [Neurabody](https://neurabody.ai), South Korea
+> **Objective:** Created a real-time full-body posture detection platform for interactive workouts, integrating mobile devices and TVs to deliver AI-driven feedback during exercise sessions.
+> **Tech Stack:** MediaPipe BlazePose, React, AWS Kinesis Video Streams (WebRTC), Tailwind CSS, Node.js, AWS Lambda
 >
->**Company**: [Neurabody AI](https://www.neurabody.ai/) South Korea
+> 📋 **Challenges:**
 >
->**Objective**: Capture and analyze human movement in real time for applications in fitness and health.
+> * Designed a low-latency pose estimation pipeline using BlazePose + WebRTC, achieving sub-200ms round-trip time for annotated video feedback.
+> * Integrated AWS Kinesis Video Streams for stable, high-quality video communication between devices.
+> * Developed a unified rendering layer that merges live video feed with skeletal landmarks on a single canvas for precise alignment.
+> * Optimized memory usage and garbage collection to eliminate jank during continuous real-time processing.
+> * Built a mobile-to-TV remote control workflow for interactive workouts, ensuring full-body visibility in varying environments.
 >
->**Tech Stack**: AWS Lambda, MediaPipe, WebRTC, Node.js
->
->📋 _The Challenge_: Building a platform that runs real-time pose detection at low latency and high efficiency. It’s all about keeping performance smooth, minimizing delays, and achieving a seamless user experience across devices.
->
->🔎 _Current Focus_: Optimizing memory and tackling memory “jank” on different browsers to deliver consistent quality.
+> 🎯 **Impact:** Enabled users to receive instant, accurate posture feedback during fitness and rehabilitation programs. Enhanced engagement through interactive AI coaching, paving the way for fully remote, AI-powered personal training.
 
+---
 
 ## Wethm Sleep Intelligence Hub
 
-> **Project**: Bio-signal Processing & Sleep Analytics
-> 
-> **Company**: [Wethm LLC.](https://www.wethm.com) South Korea
-> 
-> **Objective**: Build a backend infrastructure capable of processing millions of data points to deliver precise, actionable sleep insights to users.
-> 
-> **Tech Stack**: AWS (DynamoDB, Lambda), Next.js, Node.js, Python, Docker, AI Modeling
-> 
-> 📋 _Challenges_:
-> 
-> - Designing a high-throughput data pipeline to efficiently process over 2.5 million bio-signal data points per hour, enabling real-time sleep detection.
-> - Integrating advanced AI models to enhance bio-signal analysis and ensure accurate sleep pattern recognition.
-> - Developing scalable, optimized data models within DynamoDB to manage the vast amounts of incoming data seamlessly.
-> - Implementing premium features, including personalized sleep insights and recommendations, as part of a subscription model, aimed at providing tailored guidance based on individual bio-signals.
-> - Ensuring a resilient AWS infrastructure to handle high data loads while maintaining consistent performance and uptime.
-> 
-> 🎯 _Impact_: The Sleep Intelligence Hub connects thousands of devices, enabling data-driven insights that help users improve sleep quality. This platform supports Wethm’s premium users by offering personalized feedback, empowering better sleep through actionable analytics.
+### Bio-signal Processing & Sleep Analytics
 
+> **Company:** [Wethm LLC](https://www.wethm.com), South Korea
+> **Objective:** Built a fault-tolerant backend capable of processing millions of bio-signal data points per hour to power real-time sleep detection and personalized insights.
+> **Tech Stack:** AWS (DynamoDB, Lambda), Next.js, Node.js, Python, Docker, AI Modeling
+>
+> 📋 **Challenges:**
+>
+> * Engineered a high-throughput data pipeline handling 2.5M+ bio-signal points/hour with consistent low-latency processing.
+> * Integrated AI models for bio-signal analysis, improving sleep pattern detection accuracy.
+> * Designed DynamoDB schemas optimized for heavy write loads and time-series queries.
+> * Launched a subscription-based feature set with tailored recommendations based on individual sleep profiles.
+> * Ensured 99.99% uptime through resilient AWS infrastructure design.
+>
+> 🎯 **Impact:** Connected thousands of devices into a unified analytics ecosystem, delivering actionable sleep insights to premium users and improving user-reported sleep quality.
+
+### BCG Vital Sign Extraction
+
+> **Company:** [Wethm LLC](https://www.wethm.com), South Korea
+> **Objective:** Increased the accuracy of heart rate and breathing rate detection from BCG mattress sensors for non-invasive health monitoring.
+> **Tech Stack:** Python, SciPy, Signal Processing Toolkits, Filter Design, Peak Detection Algorithms
+>
+> 📋 **Challenges:**
+>
+> * Developed advanced filtering to suppress micro-movement noise during sleep.
+> * Implemented robust peak detection for heartbeat and respiratory cycles in low-SNR conditions.
+> * Optimized algorithms for embedded deployment on resource-limited devices.
+> * Reduced false positives caused by environmental vibrations and partner movement.
+>
+> 🎯 **Impact:** Delivered stable, clinically relevant vital sign measurements from contactless sensors, enabling long-term at-home health monitoring without wearable devices.
+
+---
 
 ## Clinical Innovation Project – Remote Health Monitoring Through Gait
 
-> **Project**: IoT-Powered Patient Activity Monitoring
-> 
-> **Company**: [FlexoSense Pte. Ltd.](https://www.flexosense.com/) Singapore
-> 
-> **Objective**: Develop a secure and accurate system for monitoring patient activity remotely, enhancing the quality of care and supporting lifestyle insights for healthcare providers.
-> 
-> **Tech Stack**: IoT Sensors, Android, Java, Python, Data Privacy & Security Frameworks, Machine Learning Models
-> 
-> 📋 _Challenges_:
-> 
-> - Designing a data model with robust security, meeting stringent data privacy standards to protect sensitive patient information.
-> - Creating an activity detection model that achieves high accuracy (96%) across diverse patient profiles, providing clinicians with reliable insights into daily patient activity.
-> - Building an intuitive Android dashboard that enables hospitals to track patient metrics in real time, supporting remote monitoring and reducing the need for in-person follow-ups.
-> - Ensuring seamless integration within the MOH-funded pilot framework, collaborating closely with hospital teams for feedback and alignment.
-> 
-> 🎯 _Impact_: This solution empowers healthcare providers to monitor patient health remotely with confidence. Now deployed in Singapore’s major hospitals, the system aids in delivering timely insights to clinicians, helping drive improved patient outcomes and lifestyle guidance.
+### IoT-Powered Patient Activity Monitoring
 
+> **Company:** [FlexoSense Pte. Ltd.](https://www.flexosense.com), Singapore
+> **Objective:** Designed an IoT-enabled gait monitoring platform to help hospitals remotely track patient mobility and recovery.
+> **Tech Stack:** IoT Sensors, Android (Java), Python (ML Models), AES-256 Encryption, MQTT
+>
+> 📋 **Challenges:**
+>
+> * Built a HIPAA-compliant data model using AES-256 encryption to protect patient data.
+> * Trained activity detection models achieving 96% accuracy across varied patient profiles.
+> * Developed a real-time Android dashboard for hospital staff to monitor gait metrics remotely.
+> * Coordinated with healthcare teams in an MOH-funded pilot to align technical design with clinical workflows.
+>
+> 🎯 **Impact:** Deployed in Singapore’s major hospitals, enabling clinicians to detect mobility decline early and reduce the need for in-person visits, improving recovery outcomes.
 
-## Real-Time Incident Detection System
+### Real-Time Incident Detection System
 
-> **Project**: IoT-Powered Patient Activity Monitoring
-> 
-> **Company**: [FlexoSense Pte. Ltd.](https://www.flexosense.com/) Singapore
-> 
-> **Objective**: Deploy an AI-driven system that detects safety incidents with high accuracy, supporting real-time monitoring to enhance workplace safety and response times.
-> 
-> **Tech Stack**: IoT Sensors, Android, Java, Python, Machine Learning Models, Real-Time Data Processing
-> 
-> 📋 _Challenges_:
-> 
-> - Developing an AI model capable of detecting safety incidents with a high degree of accuracy (98%) across diverse real-world scenarios and conditions.
-> - Conducting extensive on-site testing to refine model performance and ensure reliability in real-time applications, minimizing false positives.
-> - Implementing an intuitive Android dashboard that allows safety teams to monitor incident alerts in real time, providing quick insights and supporting prompt action.
-> - Ensuring the system integrates smoothly with existing safety protocols, aiding teams in incident management and improving overall workplace safety.
-> 
-> 🎯 _Impact_: The system enhances incident detection capabilities, providing high-accuracy insights that are already helping clients monitor workplace safety in real time. By enabling rapid response to safety incidents, it plays a critical role in reducing workplace hazards and improving occupational health.
+> **Company:** [FlexoSense Pte. Ltd.](https://www.flexosense.com), Singapore
+> **Objective:** Built an AI-powered safety monitoring system for industrial environments, detecting incidents in real time to prevent workplace injuries.
+> **Tech Stack:** IoT Sensors, Android (Java), Python (ML Models), Real-Time Processing
+>
+> 📋 **Challenges:**
+>
+> * Developed machine learning models with 98% accuracy in detecting falls and hazardous events.
+> * Conducted large-scale field testing to minimize false positives and ensure robustness in diverse conditions.
+> * Integrated real-time incident alerts into Android dashboards for safety team response within seconds.
+> * Ensured seamless adoption by aligning with existing workplace safety protocols.
+>
+> 🎯 **Impact:** Reduced workplace hazards through instant detection and response, already in use by industrial clients to protect worker health and safety.
 
+---
 
+## Gait Analysis SDK (POC)
+
+> **Company:** Independent R\&D Project
+> **Objective:** Created an Android SDK to compute spatiotemporal gait metrics from raw IMU, magnetometer, and pressure sensor data.
+> **Tech Stack:** Kotlin, Java, Python (Algorithm Prototyping), Low-pass Filtering, Quaternion-based Gravity Compensation, ZUPT Integration
+>
+> 📋 **Challenges:**
+>
+> * Implemented quaternion-based gravity compensation for high-accuracy step segmentation.
+> * Designed stance phase detection from gyroscope data to enhance temporal metric precision.
+> * Developed a modular, lightweight SDK for seamless integration into third-party apps.
+> * Validated accuracy across walking speeds, terrains, and footwear types.
+>
+> 🎯 **Impact:** Provided a reusable foundation for mobile health apps, rehabilitation tools, and sports analytics platforms, supporting precise gait measurement in the field.
 ---
 
 # ⚙️ Technologies I Use
