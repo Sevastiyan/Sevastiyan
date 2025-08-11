@@ -19,8 +19,11 @@ Not just a data scientist or a full-stack developer; I'm a Generalist passionate
 ## Motion Insight Systems
 
 > **Project:** Real-time Pose Detection & Posture Coaching
+> 
 > **Company:** [Neurabody](https://neurabody.ai), South Korea
+>
 > **Objective:** Created a real-time full-body posture detection platform for interactive workouts, integrating mobile devices and TVs to deliver AI-driven feedback during exercise sessions.
+>
 > **Tech Stack:** MediaPipe BlazePose, React, AWS Kinesis Video Streams (WebRTC), Tailwind CSS, Node.js, AWS Lambda
 >
 > 📋 **Challenges:**
@@ -40,7 +43,9 @@ Not just a data scientist or a full-stack developer; I'm a Generalist passionate
 ### Bio-signal Processing & Sleep Analytics
 
 > **Company:** [Wethm LLC](https://www.wethm.com), South Korea
+>
 > **Objective:** Built a fault-tolerant backend capable of processing millions of bio-signal data points per hour to power real-time sleep detection and personalized insights.
+>
 > **Tech Stack:** AWS (DynamoDB, Lambda), Next.js, Node.js, Python, Docker, AI Modeling
 >
 > 📋 **Challenges:**
@@ -56,7 +61,9 @@ Not just a data scientist or a full-stack developer; I'm a Generalist passionate
 ### BCG Vital Sign Extraction
 
 > **Company:** [Wethm LLC](https://www.wethm.com), South Korea
+>
 > **Objective:** Increased the accuracy of heart rate and breathing rate detection from BCG mattress sensors for non-invasive health monitoring.
+>
 > **Tech Stack:** Python, SciPy, Signal Processing Toolkits, Filter Design, Peak Detection Algorithms
 >
 > 📋 **Challenges:**
@@ -75,7 +82,9 @@ Not just a data scientist or a full-stack developer; I'm a Generalist passionate
 ### IoT-Powered Patient Activity Monitoring
 
 > **Company:** [FlexoSense Pte. Ltd.](https://www.flexosense.com), Singapore
+>
 > **Objective:** Designed an IoT-enabled gait monitoring platform to help hospitals remotely track patient mobility and recovery.
+>
 > **Tech Stack:** IoT Sensors, Android (Java), Python (ML Models), AES-256 Encryption, MQTT
 >
 > 📋 **Challenges:**
@@ -90,7 +99,9 @@ Not just a data scientist or a full-stack developer; I'm a Generalist passionate
 ### Real-Time Incident Detection System
 
 > **Company:** [FlexoSense Pte. Ltd.](https://www.flexosense.com), Singapore
+>
 > **Objective:** Built an AI-powered safety monitoring system for industrial environments, detecting incidents in real time to prevent workplace injuries.
+>
 > **Tech Stack:** IoT Sensors, Android (Java), Python (ML Models), Real-Time Processing
 >
 > 📋 **Challenges:**
@@ -107,7 +118,9 @@ Not just a data scientist or a full-stack developer; I'm a Generalist passionate
 ## Gait Analysis SDK (POC)
 
 > **Company:** Independent R\&D Project
+>
 > **Objective:** Created an Android SDK to compute spatiotemporal gait metrics from raw IMU, magnetometer, and pressure sensor data.
+>
 > **Tech Stack:** Kotlin, Java, Python (Algorithm Prototyping), Low-pass Filtering, Quaternion-based Gravity Compensation, ZUPT Integration
 >
 > 📋 **Challenges:**
