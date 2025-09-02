@@ -7,7 +7,7 @@
 ---
 # 🌌 About Me
 
-Not just a data scientist or a full-stack developer; I'm a Generalist passionate about all things tech (such as technology and techno music)! With a unique blend of science, technology, and a knack for innovation, I’m focused on building cutting-edge digital systems for real-world impact.
+Senior AI Engineer building production-grade, low-latency computer-vision and embedded ML systems for health & ergonomics. I design pose-estimation pipelines, edge inference, and resilient cloud ingestion so products can give fast, personalized feedback. Currently shipping posture detection on Samsung Smart TVs and architecting a backend for a haptics-enabled ergonomic seat.
 - Innovating in Digital Health: From smart insoles for gait analysis to real-time AI models for posture.
 - Empowering Machines: Teaching them to recognize human movement and make insightful recommendations.
 - Delivering on Execution: Building and deploying practical tech solutions for user-facing platforms.
@@ -86,7 +86,7 @@ Not just a data scientist or a full-stack developer; I'm a Generalist passionate
 
 ## Remote Health Monitoring Through Gait
 
-### Gait Analysis
+### [Gait Analysis](/projects/my_gait_algorithm/README.md)
 
 > **Company:** [FlexoSense Pte. Ltd.](https://www.flexosense.com), Singapore
 >
