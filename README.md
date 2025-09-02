@@ -44,57 +44,84 @@ Not just a data scientist or a full-stack developer; I'm a Generalist passionate
 
 > **Company:** [Wethm LLC](https://www.wethm.com), South Korea
 >
-> **Objective:** Built a fault-tolerant backend capable of processing millions of bio-signal data points per hour to power real-time sleep detection and personalized insights.
+> **Objective:** Built the production platform to ingest BCG signals via IoT devices, transform the data for AI inference, and deliver sleep insights to users.
 >
-> **Tech Stack:** AWS (DynamoDB, Lambda), Next.js, Node.js, Python, Docker, AI Modeling
+> **Tech Stack:** AWS (Lambda, DynamoDB), Node.js / TypeScript, Python, Docker, MQTT, Next.js
 >
-> 📋 **Challenges:**
+> **Techniques:** IoT Data Ingestion, Time-series Modeling, API Design, Encrypted Data Pipelines
 >
-> * Engineered a high-throughput data pipeline handling 2.5M+ bio-signal points/hour with consistent low-latency processing.
-> * Integrated AI models for bio-signal analysis, improving sleep pattern detection accuracy.
-> * Designed DynamoDB schemas optimized for heavy write loads and time-series queries.
-> * Launched a subscription-based feature set with tailored recommendations based on individual sleep profiles.
-> * Ensured 99.99% uptime through resilient AWS infrastructure design.
+> 📋 **Key Contributions:**
 >
-> 🎯 **Impact:** Connected thousands of devices into a unified analytics ecosystem, delivering actionable sleep insights to premium users and improving user-reported sleep quality.
+> * Implemented MQTT-based ingestion to collect BCG data in real-time and remotely control connected devices.
+> * Developed AWS Lambda functions to transform and preprocess incoming data for AI inference.
+> * Designed a DynamoDB time-series schema to efficiently store AI outputs and vitals for downstream queries.
+> * Built server-side delivery APIs to provide nightly sleep reports, trends, and personalized recommendations.
+> * Ensured privacy and reliability with encrypted pipelines and access-controlled endpoints
+>
+> 🎯 **Impact:** Turned the AI models into a production-ready platform, enabling seamless data flow from devices to AI to client-facing insights at scale..
 
-### BCG Vital Sign Extraction
+### Multimodal Sleep AI Pipeline
 
 > **Company:** [Wethm LLC](https://www.wethm.com), South Korea
 >
-> **Objective:** Increased the accuracy of heart rate and breathing rate detection from BCG mattress sensors for non-invasive health monitoring.
+> **Objective:** Developed the core AI pipeline that transforms raw BCG signals into heart rate, breathing rate, and sleep stages, forming the backbone of the company’s sleep analytics system.
 >
-> **Tech Stack:** Python, SciPy, Signal Processing Toolkits, Filter Design, Peak Detection Algorithms
+> **Tech Stack:** Python, Tensorflow, Keras, SciPy
 >
-> 📋 **Challenges:**
+> **Techniques:** Signal Processing Toolkits, Filter Design, Peak Detection Algorithms
 >
-> * Developed advanced filtering to suppress micro-movement noise during sleep.
+> 📋 **Key Contributions:**
+>
+> * Architected a multimodal AI pipeline:
+>   * **Stage 1**: Classifier extracts heart rate (HR) and breathing rate (BR) from BCG data.
+>   * **Stage 2**: Higher-level AI model maps HR + BR into sleep staging and scoring.
+> * Deployed server-side descriptive analytics to generate user-friendly insights and tailored sleep recommendations.
 > * Implemented robust peak detection for heartbeat and respiratory cycles in low-SNR conditions.
 > * Optimized algorithms for embedded deployment on resource-limited devices.
-> * Reduced false positives caused by environmental vibrations and partner movement.
+
 >
-> 🎯 **Impact:** Delivered stable, clinically relevant vital sign measurements from contactless sensors, enabling long-term at-home health monitoring without wearable devices.
+> 🎯 **Impact:** Delivered the foundational wearable-free vital-sign and sleep-stage engine that powers downstream analytics and user-facing insights.
 
 ---
 
-## Clinical Innovation Project – Remote Health Monitoring Through Gait
+## Remote Health Monitoring Through Gait
+
+### Gait Analysis
+
+> **Company:** [FlexoSense Pte. Ltd.](https://www.flexosense.com), Singapore
+>
+> **Objective:** Engineered a sensor-fusion gait analysis algorithm that transforms low-cost IoT smart insoles into a research-grade tool, delivering spatiotemporal metrics comparable to the CAREN gold-standard motion analysis system.
+>
+> **Tech Stack:** Kotlin, Java, Python (Prototyping), Android SDK Development
+>
+> **Techniques:** Sensor Fusion (IMU, Magnetometer, Pressure Sensors), Low-pass Filtering, Quaternion-based Gravity Compensation, Zero-Velocity Updates (ZUPT), Stance Phase Detection
+>
+> 📋 **Key Contributions:**
+>
+> * Designed and implemented the core sensor-fusion algorithm combining IMU, magnetometer, and plantar pressure signals.
+> * Applied quaternion-based gravity compensation for robust step segmentation and orientation tracking.
+> * Developed stance phase detection from gyroscope data, improving temporal metric precision.
+> * Built a lightweight, modular Android SDK for seamless third-party integration.
+> * Independently validated against a gold-standard gait lab, demonstrating strong agreement in key spatiotemporal metrics.
+>
+> 🎯 **Impact:** Elevated smart insoles into a field-ready gait lab, enabling rehabilitation, sports science, and mobile health applications with research-grade precision at a fraction of the cost.
 
 ### IoT-Powered Patient Activity Monitoring
 
 > **Company:** [FlexoSense Pte. Ltd.](https://www.flexosense.com), Singapore
 >
-> **Objective:** Designed an IoT-enabled gait monitoring platform to help hospitals remotely track patient mobility and recovery.
+> **Objective:** Adapted smart insole technology for a Ministry of Health–funded pilot, enabling hospitals to remotely monitor patient mobility and recovery.
 >
 > **Tech Stack:** IoT Sensors, Android (Java), Python (ML Models), AES-256 Encryption, MQTT
 >
-> 📋 **Challenges:**
+> 📋 **Key Contributions:**
 >
-> * Built a HIPAA-compliant data model using AES-256 encryption to protect patient data.
-> * Trained activity detection models achieving 96% accuracy across varied patient profiles.
-> * Developed a real-time Android dashboard for hospital staff to monitor gait metrics remotely.
-> * Coordinated with healthcare teams in an MOH-funded pilot to align technical design with clinical workflows.
+> * Integrated gait analysis insoles into a secure, hospital-ready monitoring platform.
+> * Developed activity detection models with 96% accuracy across diverse patient profiles.
+> * Built a real-time Android dashboard for podiatrists and clinicians to visualize gait and mobility trends.
+> * Collaborated with healthcare teams to align technical design with clinical workflows during the MOH pilot.
 >
-> 🎯 **Impact:** Deployed in Singapore’s major hospitals, enabling clinicians to detect mobility decline early and reduce the need for in-person visits, improving recovery outcomes.
+> 🎯 **Impact:** Deployed in Singapore’s major hospitals, enabling clinicians to track recovery remotely, detect mobility decline early, and reduce unnecessary in-person visits.
 
 ### Real-Time Incident Detection System
 
@@ -104,7 +131,7 @@ Not just a data scientist or a full-stack developer; I'm a Generalist passionate
 >
 > **Tech Stack:** IoT Sensors, Android (Java), Python (ML Models), Real-Time Processing
 >
-> 📋 **Challenges:**
+> 📋 **Key Contributions:**
 >
 > * Developed machine learning models with 98% accuracy in detecting falls and hazardous events.
 > * Conducted large-scale field testing to minimize false positives and ensure robustness in diverse conditions.
@@ -113,24 +140,8 @@ Not just a data scientist or a full-stack developer; I'm a Generalist passionate
 >
 > 🎯 **Impact:** Reduced workplace hazards through instant detection and response, already in use by industrial clients to protect worker health and safety.
 
----
 
-## Gait Analysis SDK (POC)
 
-> **Company:** Independent R\&D Project
->
-> **Objective:** Created an Android SDK to compute spatiotemporal gait metrics from raw IMU, magnetometer, and pressure sensor data.
->
-> **Tech Stack:** Kotlin, Java, Python (Algorithm Prototyping), Low-pass Filtering, Quaternion-based Gravity Compensation, ZUPT Integration
->
-> 📋 **Challenges:**
->
-> * Implemented quaternion-based gravity compensation for high-accuracy step segmentation.
-> * Designed stance phase detection from gyroscope data to enhance temporal metric precision.
-> * Developed a modular, lightweight SDK for seamless integration into third-party apps.
-> * Validated accuracy across walking speeds, terrains, and footwear types.
->
-> 🎯 **Impact:** Provided a reusable foundation for mobile health apps, rehabilitation tools, and sports analytics platforms, supporting precise gait measurement in the field.
 ---
 
 # ⚙️ Technologies I Use
