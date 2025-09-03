@@ -6,17 +6,17 @@
 
 ---
 # 🌌 About Me
+Hi, My name is Sevastiyan,
 
-Senior AI Engineer building production-grade, low-latency computer-vision and embedded ML systems for health & ergonomics. I design AI/ML solutions, scalable cloud infrastructure, and secure backend systems, so products can give fast, personalized feedback. Currently shipping posture detection on Samsung Smart TVs and architecting a backend for a haptics-enabled ergonomic seat. My expertise spans:
+Senior AI Engineer building production-grade, low-latency computer-vision and embedded ML systems for health & ergonomics. I design AI/ML solutions, scalable cloud infrastructure, and secure backend systems, so products can give fast, personalized feedback. Currently shipping posture detection on Samsung Smart TVs and architecting a backend for an ergonomic seat. My expertise spans:
 - **Artificial Intelligence & Machine Learning:** Real-time computer vision (pose estimation, gait analysis), biosignal interpretation, and model optimization for edge devices and cloud pipelines.
 - **Cloud Engineering:** Architected and deployed large-scale data ingestion, API services, and inference backends on AWS (Lambda, API Gateway, DynamoDB, S3), supporting thousands of concurrent users.
 - **Cybersecurity & Data Privacy:** Designed secure, compliant data flows for healthcare pilots (MOH Singapore) and consumer products, ensuring patient and user data confidentiality.
 - **Backend Development:** Delivered resilient APIs, streaming pipelines, and subscription-based platforms (Next.js, Node.js, Python) powering real-time analytics and personalized feedback loops.
-Across roles at Neurabody, Wethm, and FlexoSense, I’ve deployed systems in production environments ranging from Samsung Smart TVs to clinical hospitals — always focused on reliability and security.
 
 ---
 
-# 🗂️ Sevastiyan's Tech Portfolio
+# 🗂️ My Tech Portfolio
 
 ## Motion Insight Systems
 
