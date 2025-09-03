@@ -7,10 +7,12 @@
 ---
 # 🌌 About Me
 
-Senior AI Engineer building production-grade, low-latency computer-vision and embedded ML systems for health & ergonomics. I design pose-estimation pipelines, edge inference, and resilient cloud ingestion so products can give fast, personalized feedback. Currently shipping posture detection on Samsung Smart TVs and architecting a backend for a haptics-enabled ergonomic seat.
-- Innovating in Digital Health: From smart insoles for gait analysis to real-time AI models for posture.
-- Empowering Machines: Teaching them to recognize human movement and make insightful recommendations.
-- Delivering on Execution: Building and deploying practical tech solutions for user-facing platforms.
+Senior AI Engineer building production-grade, low-latency computer-vision and embedded ML systems for health & ergonomics. I design AI/ML solutions, scalable cloud infrastructure, and secure backend systems, so products can give fast, personalized feedback. Currently shipping posture detection on Samsung Smart TVs and architecting a backend for a haptics-enabled ergonomic seat. My expertise spans:
+- **Artificial Intelligence & Machine Learning:** Real-time computer vision (pose estimation, gait analysis), biosignal interpretation, and model optimization for edge devices and cloud pipelines.
+- **Cloud Engineering:** Architected and deployed large-scale data ingestion, API services, and inference backends on AWS (Lambda, API Gateway, DynamoDB, S3), supporting thousands of concurrent users.
+- **Cybersecurity & Data Privacy:** Designed secure, compliant data flows for healthcare pilots (MOH Singapore) and consumer products, ensuring patient and user data confidentiality.
+- **Backend Development:** Delivered resilient APIs, streaming pipelines, and subscription-based platforms (Next.js, Node.js, Python) powering real-time analytics and personalized feedback loops.
+Across roles at Neurabody, Wethm, and FlexoSense, I’ve deployed systems in production environments ranging from Samsung Smart TVs to clinical hospitals — always focused on reliability and security.
 
 ---
 
