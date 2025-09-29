@@ -8,6 +8,8 @@
 # 🌌 About Me
 Hi, My name is Sevastiyan,
 
+## 👉 [Check Out My Website](https://sevastiyan.vercel.app/)
+
 Senior AI Engineer building production-grade, low-latency computer-vision and embedded ML systems for health & ergonomics. I design AI/ML solutions, scalable cloud infrastructure, and secure backend systems, so products can give fast, personalized feedback. Currently shipping posture detection on Samsung Smart TVs and architecting a backend for an ergonomic seat. My expertise spans:
 - **Artificial Intelligence & Machine Learning:** Real-time computer vision (pose estimation, gait analysis), biosignal interpretation, and model optimization for edge devices and cloud pipelines.
 - **Cloud Engineering:** Architected and deployed large-scale data ingestion, API services, and inference backends on AWS (Lambda, API Gateway, DynamoDB, S3), supporting thousands of concurrent users.
