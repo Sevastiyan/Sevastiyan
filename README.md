@@ -40,6 +40,65 @@ Senior AI Engineer building production-grade, low-latency computer-vision and em
 
 ---
 
+## Remote Monitoring Through Gait
+
+### [Research-Grade Gait Analysis](/projects/my_gait_algorithm/README.md)
+
+> **Company:** [FlexoSense Pte. Ltd.](https://www.flexosense.com), Singapore
+> 
+> **Objective:** Engineered a sensor-fusion gait analysis algorithm that transforms low-cost IoT smart insoles into a research-grade tool, delivering spatiotemporal metrics comparable to the CAREN gold-standard motion analysis system.
+> 
+> **Tech Stack:** Kotlin, Java, Python (Prototyping), Android SDK Development
+> **Techniques:** Sensor Fusion (IMU, Magnetometer, Pressure Sensors), Low-pass Filtering, Quaternion-based Gravity Compensation, Zero-Velocity Updates (ZUPT), Stance Phase Detection
+>
+> 📋 **Key Contributions:**
+>
+> * Designed and implemented the core sensor-fusion algorithm combining IMU, magnetometer, and plantar pressure signals.
+> * Applied quaternion-based gravity compensation for robust step segmentation and orientation tracking.
+> * Developed stance phase detection from gyroscope data, improving temporal metric precision.
+> * Built a lightweight, modular Android SDK for seamless third-party integration.
+> * Iteratively optimized the algorithm (V1 to V2) to significantly reduce spatial metric biases, achieving stronger correlations with ground-truth systems.
+>
+> 🎯 **Impact:** > * **Gold-Standard Validation:** Independently validated against the CAREN system, demonstrating "excellent reliability" (ICC > 0.92) across key metrics including step time, stride time, stance time, walking speed, and cadence.
+> * **High-Precision Temporal Tracking:** Achieved near-zero mean bias for temporal gait variables, confirming lab-grade precision from consumer hardware.
+> * **Competitive Superiority:** Outperformed the National University of Singapore (NUS) algorithm across a greater number of gait variables—particularly step-related, temporal, and spatiotemporal measures.
+
+### IoT-Powered Patient Activity Monitoring
+
+> **Company:** [FlexoSense Pte. Ltd.](https://www.flexosense.com), Singapore
+>
+> **Objective:** Adapted smart insole technology for a Ministry of Health–funded pilot, enabling hospitals to remotely monitor patient mobility and recovery.
+>
+> **Tech Stack:** IoT Sensors, Android (Java), Python (ML Models), AES-256 Encryption, MQTT
+>
+> 📋 **Key Contributions:**
+>
+> * Integrated gait analysis insoles into a secure, hospital-ready monitoring platform.
+> * Developed activity detection models with 96% accuracy across diverse patient profiles.
+> * Built a real-time Android dashboard for podiatrists and clinicians to visualize gait and mobility trends.
+> * Collaborated with healthcare teams to align technical design with clinical workflows during the MOH pilot.
+>
+> 🎯 **Impact:** Deployed in Singapore’s major hospitals, enabling clinicians to track recovery remotely, detect mobility decline early, and reduce unnecessary in-person visits.
+
+### Real-Time Incident Detection System
+
+> **Company:** [FlexoSense Pte. Ltd.](https://www.flexosense.com), Singapore
+>
+> **Objective:** Built an AI-powered safety monitoring system for industrial environments, detecting incidents in real time to prevent workplace injuries.
+>
+> **Tech Stack:** IoT Sensors, Android (Java), Python (ML Models), Real-Time Processing
+>
+> 📋 **Key Contributions:**
+>
+> * Developed machine learning models with 98% accuracy in detecting falls and hazardous events.
+> * Conducted large-scale field testing to minimize false positives and ensure robustness in diverse conditions.
+> * Integrated real-time incident alerts into Android dashboards for safety team response within seconds.
+> * Ensured seamless adoption by aligning with existing workplace safety protocols.
+>
+> 🎯 **Impact:** Reduced workplace hazards through instant detection and response, already in use by industrial clients to protect worker health and safety.
+
+---
+
 ## Wethm Sleep Intelligence Hub
 
 ### Bio-signal Processing & Sleep Analytics
@@ -83,66 +142,6 @@ Senior AI Engineer building production-grade, low-latency computer-vision and em
 
 >
 > 🎯 **Impact:** Delivered the foundational wearable-free vital-sign and sleep-stage engine that powers downstream analytics and user-facing insights.
-
----
-
-## Remote Health Monitoring Through Gait
-
-### [Gait Analysis](/projects/my_gait_algorithm/README.md)
-
-> **Company:** [FlexoSense Pte. Ltd.](https://www.flexosense.com), Singapore
->
-> **Objective:** Engineered a sensor-fusion gait analysis algorithm that transforms low-cost IoT smart insoles into a research-grade tool, delivering spatiotemporal metrics comparable to the CAREN gold-standard motion analysis system.
->
-> **Tech Stack:** Kotlin, Java, Python (Prototyping), Android SDK Development
->
-> **Techniques:** Sensor Fusion (IMU, Magnetometer, Pressure Sensors), Low-pass Filtering, Quaternion-based Gravity Compensation, Zero-Velocity Updates (ZUPT), Stance Phase Detection
->
-> 📋 **Key Contributions:**
->
-> * Designed and implemented the core sensor-fusion algorithm combining IMU, magnetometer, and plantar pressure signals.
-> * Applied quaternion-based gravity compensation for robust step segmentation and orientation tracking.
-> * Developed stance phase detection from gyroscope data, improving temporal metric precision.
-> * Built a lightweight, modular Android SDK for seamless third-party integration.
-> * Independently validated against a gold-standard gait lab, demonstrating strong agreement in key spatiotemporal metrics.
->
-> 🎯 **Impact:** Elevated smart insoles into a field-ready gait lab, enabling rehabilitation, sports science, and mobile health applications with research-grade precision at a fraction of the cost.
-
-### IoT-Powered Patient Activity Monitoring
-
-> **Company:** [FlexoSense Pte. Ltd.](https://www.flexosense.com), Singapore
->
-> **Objective:** Adapted smart insole technology for a Ministry of Health–funded pilot, enabling hospitals to remotely monitor patient mobility and recovery.
->
-> **Tech Stack:** IoT Sensors, Android (Java), Python (ML Models), AES-256 Encryption, MQTT
->
-> 📋 **Key Contributions:**
->
-> * Integrated gait analysis insoles into a secure, hospital-ready monitoring platform.
-> * Developed activity detection models with 96% accuracy across diverse patient profiles.
-> * Built a real-time Android dashboard for podiatrists and clinicians to visualize gait and mobility trends.
-> * Collaborated with healthcare teams to align technical design with clinical workflows during the MOH pilot.
->
-> 🎯 **Impact:** Deployed in Singapore’s major hospitals, enabling clinicians to track recovery remotely, detect mobility decline early, and reduce unnecessary in-person visits.
-
-### Real-Time Incident Detection System
-
-> **Company:** [FlexoSense Pte. Ltd.](https://www.flexosense.com), Singapore
->
-> **Objective:** Built an AI-powered safety monitoring system for industrial environments, detecting incidents in real time to prevent workplace injuries.
->
-> **Tech Stack:** IoT Sensors, Android (Java), Python (ML Models), Real-Time Processing
->
-> 📋 **Key Contributions:**
->
-> * Developed machine learning models with 98% accuracy in detecting falls and hazardous events.
-> * Conducted large-scale field testing to minimize false positives and ensure robustness in diverse conditions.
-> * Integrated real-time incident alerts into Android dashboards for safety team response within seconds.
-> * Ensured seamless adoption by aligning with existing workplace safety protocols.
->
-> 🎯 **Impact:** Reduced workplace hazards through instant detection and response, already in use by industrial clients to protect worker health and safety.
-
-
 
 ---
 
